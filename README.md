@@ -1,16 +1,14 @@
 # NullCandy
-A FullStack [Ecommerce Web Application](https://nullcandy.vercel.app) with integrated payment gateway and server side rendering 
+An E-commerce [web application](https://nullcandy.vercel.app) with an integrated payment gateway and Server Side Rendering 
 
 ## Tech Stack
-* **ReactJS**
+* **React**
 * **Next.js**
 * **Sanity**
 * **Stripe API**
 
-## Learnings
-* Effective use of React hooks
-* Advanced State Management using React Context API
-* File based routing in next.js
-* Server Side Rendering and static generation with next.js (`getServerSideProps`, `getStaticPaths`, `getStaticProps`)
-* Payment Integration with Stripe
-* Content Management using Sanity
+## Features
+* State Management using **React Context API**
+* Server Side Rendering and static page generation with **Next.js**
+* Payment Integration with **Stripe**
+* Content Management using **Sanity**
